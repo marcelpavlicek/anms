@@ -1,7 +1,9 @@
 export default function Home() {
   return (
     <main>
-      <div>Hello world!</div>
+      <article className="prose lg:prose-xl">
+        <h1>Hello world!</h1>
+      </article>
     </main>
   );
 }
