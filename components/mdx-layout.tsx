@@ -78,6 +78,7 @@ export default function MdxLayout({ children }: { children: React.ReactNode }) {
                   <Diagram id="qqyus6Eo#7" />
                   <Diagram id="STqumDLT#13" />
                   <Diagram id="avpJvFCM#7" />
+                  <Diagram id="PyLVEiNW#6" />
                 </div>
               </section>
             </aside>
