@@ -9,7 +9,7 @@ export default function Diagram({ id }: DiagramProps) {
       <iframe
         width="600"
         height="371"
-        src={`https://lichess.org/study/embed/GtcclMzP/${a}?theme=newspaper&pieceSet=fresca#${b}`}
+        src={`https://lichess.org/study/embed/${a}?theme=newspaper&pieceSet=fresca#${b}`}
         className="border-0"
       ></iframe>
     </div>

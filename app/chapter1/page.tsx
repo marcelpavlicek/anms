@@ -23,21 +23,21 @@ export default function Page() {
         <aside className=" w-2xl">
           <section aria-labelledby="section-2-title">
             <div className="rounded-xl bg-lichess">
-              <Diagram id="Zg5ZrKX9" />
-              <Diagram id="hk6c25je#5" />
-              <Diagram id="5rRHLCT6#14" />
-              <Diagram id="Um0hdTAu#9" />
-              <Diagram id="qqyus6Eo#7" />
-              <Diagram id="STqumDLT#13" />
-              <Diagram id="avpJvFCM#7" />
-              <Diagram id="PyLVEiNW#6" />
-              <Diagram id="qWeN2wmu" />
-              <Diagram id="DSmomrS6#16" />
-              <Diagram id="DXACwUdF" />
-              <Diagram id="lKpfiWeq#6" />
-              <Diagram id="w8MmqZq0#12" />
-              <Diagram id="O4CBkzZN#3" />
-              <Diagram id="pnziiSOO#8" />
+              <Diagram id="GtcclMzP/Zg5ZrKX9" />
+              <Diagram id="GtcclMzP/hk6c25je#5" />
+              <Diagram id="GtcclMzP/5rRHLCT6#14" />
+              <Diagram id="GtcclMzP/Um0hdTAu#9" />
+              <Diagram id="GtcclMzP/qqyus6Eo#7" />
+              <Diagram id="GtcclMzP/STqumDLT#13" />
+              <Diagram id="GtcclMzP/avpJvFCM#7" />
+              <Diagram id="GtcclMzP/PyLVEiNW#6" />
+              <Diagram id="GtcclMzP/qWeN2wmu" />
+              <Diagram id="GtcclMzP/DSmomrS6#16" />
+              <Diagram id="GtcclMzP/DXACwUdF" />
+              <Diagram id="GtcclMzP/lKpfiWeq#6" />
+              <Diagram id="GtcclMzP/w8MmqZq0#12" />
+              <Diagram id="GtcclMzP/O4CBkzZN#3" />
+              <Diagram id="pGtcclMzP/nziiSOO#8" />
             </div>
           </section>
         </aside>

@@ -1,5 +1,6 @@
 import MdxLayout from "@/components/mdx-layout";
 import Chapter from "../markdown/ch2.mdx";
+import Diagram from "@/components/diagram";
 
 export default function Page() {
   return (
@@ -21,7 +22,12 @@ export default function Page() {
         {/* Right column */}
         <aside className=" w-2xl">
           <section aria-labelledby="section-2-title">
-            <div className="rounded-xl bg-lichess"></div>
+            <div className="rounded-xl bg-lichess">
+              <Diagram id="KChrx9PP/RozxcRVh" />
+              <Diagram id="KChrx9PP/oYOPv57r#40" />
+              <Diagram id="KChrx9PP/eXH1zJng#6" />
+              <Diagram id="KChrx9PP/oOuMyYwu" />
+            </div>
           </section>
         </aside>
       </div>
