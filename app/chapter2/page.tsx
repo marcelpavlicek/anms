@@ -27,6 +27,9 @@ export default function Page() {
               <Diagram id="KChrx9PP/oYOPv57r#40" />
               <Diagram id="KChrx9PP/eXH1zJng#6" />
               <Diagram id="KChrx9PP/oOuMyYwu" />
+              <Diagram id="KChrx9PP/707LMCWn" />
+              <Diagram id="KChrx9PP/ixg0oNR1" />
+              <Diagram id="KChrx9PP/D7OxyJvE" />
             </div>
           </section>
         </aside>
