@@ -31,6 +31,8 @@ export default function Page() {
               <Diagram id="KChrx9PP/ixg0oNR1" />
               <Diagram id="KChrx9PP/D7OxyJvE" />
               <Diagram id="KChrx9PP/Wql1X3Fp#1" />
+              <Diagram id="KChrx9PP/xU8qHsao" />
+              <Diagram id="KChrx9PP/mIIR8GQ6#0" />
             </div>
           </section>
         </aside>
