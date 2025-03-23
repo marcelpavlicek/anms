@@ -23,7 +23,8 @@ export default function Page() {
         <aside className=" w-2xl">
           <section aria-labelledby="section-2-title">
             <div className="rounded-xl bg-lichess">
-              <Diagram id="KChrx9PP/RozxcRVh" />
+              <Diagram id="HxXp2qQE/P64IBYK6" />
+              <Diagram id="HxXp2qQE/KOcy0awi" />
             </div>
           </section>
         </aside>
